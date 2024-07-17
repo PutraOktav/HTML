@@ -1,0 +1,58 @@
+p {
+  text-align: justify;
+  float: right;
+}
+body {
+  background-color: yellow;
+  text-align: center;
+  font-family: Arial, sans-serif;
+  position: fixed;
+  top: 1rem;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  margin: 0;
+}
+
+.header {
+  background-color: orange;
+  padding: 10px;
+  margin-right: 30px;
+  margin-left: 30px;
+  margin-topt: 30px;
+  margin-bottom: 30px;
+  float: bottom;
+}
+.header h1 {
+  margin: 0;
+  color: blue;
+}
+.main-content {
+  margin-top: 20px;
+}
+.spaced-text {
+  color: rgb(0, 255, 17);
+  font-family: Arial, sans-serif;
+  font-size: 24px;
+  letter-spacing: 0.5em; /* Mengatur jarak antar huruf */
+}
+.main-content p {
+  color: red;
+  font-size: 20px;
+}
+.main-content a {
+  color: blue;
+  text-decoration: none;
+}
+.desc {
+  text-align: justify;
+}
+p {
+  text-indent: 50px;
+  text-align: justify;
+  letter-spacing: 3px;
+  float: right;
+}
+h1 {
+  text-align: left;
+}
